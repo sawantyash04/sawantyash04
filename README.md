@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student and aspiring Software Engineer with strong expertise in full-stack and backend development.<br>Skilled in Java, Python, React, Node.js, and Microservices, with hands-on experience building scalable systems.<br>Built impactful projects like a Medication Recommendation System and a DDoS Protection System.<br>Passionate about solving real-world problems through efficient and reliable code.
+Recent Computer Science (AI/ML) graduate with hands-on experience building backend systems, AI-powered applications, and cloud-deployed projects. Skilled in Python, FastAPI, React.js, PostgreSQL, Redis, and AWS, with practical exposure to agentic AI workflows, RAG systems, and LLM integrations through academic and personal projects. Strong foundation in scalable backend development, API integrations, and machine learning-driven automation.
 
 
 ## 🌐 Socials:
